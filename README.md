@@ -7,15 +7,13 @@
  - 籍贯：湖北麻城
  - 出生年月：1989年8月
  - 教育经历：武汉大学/电子信息工程/本科
- 
  - 工作年限：5年
- 
+ - 期望职位：Web前端工程师
+ - 期望城市：武汉
  - 个人网站：[http://www.afanweb.com](http://www.afanweb.com)
  - 在线简历：[http://www.afanweb.com/about-me](http://www.afanweb.com/about-me)
  - Github: [http://github.com/lf2941270](http://github.com/lf2941270)
  
- - 期望职位：Web前端工程师
- - 期望城市：武汉
  
 ---
 
